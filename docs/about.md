@@ -1,6 +1,6 @@
 **About OpenL Tablets**
 
-TW2
+External test
 
 OpenL Tablets is an open source business rules engine (BRE, BRMS) and decision management system. 
 
